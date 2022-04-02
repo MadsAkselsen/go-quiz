@@ -1,3 +1,7 @@
 # go-quiz
 
-`./main.exe --help` in commandline to for info about flags and how to use this program
+For info about flags and how to use this program
+`./main.exe --help`
+
+Build and run
+`go build main.go && ./main -csv=problems.csv`
