@@ -8,6 +8,8 @@
 
 `go build main.go && ./main`
 
+On WSL `GOOS=windows go build main.go && ./main`
+
 #### flags
 
 set filename `-csv=nameOfFile.csv`
